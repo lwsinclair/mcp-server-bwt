@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zizzfizzix-mcp-server-bwt-badge.png)](https://mseep.ai/app/zizzfizzix-mcp-server-bwt)
+
 # mcp-server-bwt
 
 > MCP server for Bing Webmaster Tools
